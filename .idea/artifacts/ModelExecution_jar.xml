@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ModelExecution:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ModelExecution_jar</output-path>
+    <root id="archive" name="ModelExecution.jar">
+      <element id="module-output" name="ModelExecution" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/info/picocli/picocli/4.6.1/picocli-4.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/HAL/lib/colt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/HAL/lib/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/HAL/lib/lwjgl_util.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
